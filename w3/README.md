@@ -8,7 +8,7 @@
 
 ### 이미지
 
-![한국항공대학교_로고]("C:\Users\park\projects\2023_oss\img\한국항공대학교_로고.png")
+![한국항공대학교_로고](../img/한국항공대학교_로고.png "한국항공대학교")
 
 ### 링크
 [LMS](https://lms.kau.ac.kr/)
